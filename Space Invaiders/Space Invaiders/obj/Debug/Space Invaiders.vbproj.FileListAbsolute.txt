@@ -1,0 +1,21 @@
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\bin\Debug\Space Invaiders.exe.config
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\bin\Debug\Space Invaiders.exe
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\bin\Debug\Space Invaiders.pdb
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\bin\Debug\Space Invaiders.xml
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\obj\Debug\Space_Invaiders.AlienInvaiders.resources
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\obj\Debug\Space_Invaiders.Resources.resources
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\obj\Debug\Space Invaiders.vbproj.GenerateResource.Cache
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\obj\Debug\Space Invaiders.exe
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\obj\Debug\Space Invaiders.xml
+C:\Users\Tomasz\AppData\Local\Temporary Projects\Space Invaiders\obj\Debug\Space Invaiders.pdb
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\bin\Debug\Space Invaiders.exe.config
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\obj\Debug\Space Invaiders.exe
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\obj\Debug\Space Invaiders.xml
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\obj\Debug\Space Invaiders.pdb
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\bin\Debug\Space Invaiders.exe
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\bin\Debug\Space Invaiders.pdb
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\bin\Debug\Space Invaiders.xml
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\obj\Debug\Space_Invaiders.AlienInvaiders.resources
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\obj\Debug\Space_Invaiders.Resources.resources
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\obj\Debug\Space Invaiders.vbproj.GenerateResource.Cache
+E:\UNI\Programing\Space Invaiders\Space Invaiders\Space Invaiders\obj\Debug\Space Invaiders.vbprojResolveAssemblyReference.cache
